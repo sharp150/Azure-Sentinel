@@ -68,7 +68,7 @@ You should see a list of updates that are processed or a message saying you are 
 
 Now that you are in sync create your new branch
 
-Run : `Git checkout -b <branch name>` *example* `Git checkout -b MyNewContribution`
+Run : `Git checkout -b SentinelMadeEasy` *example* `Git checkout -b MyNewContribution`
 
 **Install VS Code:**
 
